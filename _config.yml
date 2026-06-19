@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xingpeng Sun / Homepage"
 title_separator          : "-"
 name                     : &name "Xingpeng Sun"
-description              : &description "personal description"
+description              : &description "Ph.D. student at Purdue University researching foundation models, robotics, and graphics."
 url                      : https://XingpengSun0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XingpengSun0/XingpengSun0.github.io"
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Xingpeng Sun"
   avatar           : "profile.png"
-  bio              : "CS Ph.D. Student @ Purdue"
+  bio              : "Ph.D. Student in CS @ Purdue"
+  github           : "XingpengSun0"
   location         : "West Lafayette, IN"
   googlescholar    : "https://scholar.google.com/citations?user=QcWcXQ4AAAAJ&hl=en"
   email            : "sun1223@purdue.edu"
@@ -93,7 +94,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
   google_plus      :
   keybase          :
   instagram        :
