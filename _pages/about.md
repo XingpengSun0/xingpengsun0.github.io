@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-Welcome! I am **Xingpeng Sun**, a Ph.D. student in Computer Science at [Purdue University](https://www.cs.purdue.edu/), advised by Prof. [Aniket Bera](https://scholar.google.com/citations?hl=en&user=q3UdHk4AAAAJ). Previously, I received my B.S. in Computer Science and Mathematics from the [University of Wisconsin–Madison](https://www.wisc.edu/) with Distinctive Scholastic Achievement.
+Welcome! I am **Xingpeng Sun**, a Ph.D. student in Computer Science at [Purdue University](https://www.cs.purdue.edu/). I am fortunate to be advised by Prof. [Aniket Bera](https://scholar.google.com/citations?hl=en&user=q3UdHk4AAAAJ). Previously, I received my B.S. in Computer Science and Mathematics from the [University of Wisconsin–Madison](https://www.wisc.edu/) with Distinctive Scholastic Achievement.
 
 My research sits at the intersection of **foundation models**, **robotics**, and **graphics**. I study how to strengthen the spatial reasoning, planning, and 3D understanding capabilities of vision-language models by grounding them in domain knowledge from robotics and computer graphics — with applications spanning mesh deformation, robot navigation, and automated inspection planning.
 
@@ -36,7 +36,6 @@ My research sits at the intersection of **foundation models**, **robotics**, and
       <p class="pub-venue"><em>IEEE Transactions on Visualization and Computer Graphics (TVCG)</em>, 2026</p>
       <p class="pub-links">
         <a href="https://arxiv.org/abs/2506.04562">Paper</a>
-        <a href="https://arxiv.org/html/2506.04562v1">HTML</a>
       </p>
     </div>
   </li>
@@ -61,7 +60,6 @@ My research sits at the intersection of **foundation models**, **robotics**, and
       <p class="pub-venue"><em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2025</p>
       <p class="pub-links">
         <a href="https://arxiv.org/abs/2410.20263">Paper</a>
-        <a href="https://github.com/chengkaiAcademyCity/EfficientEQA">Code</a>
       </p>
     </div>
   </li>
