@@ -34,7 +34,7 @@ My research sits at the intersection of **foundation models**, **robotics**, and
     <div class="pub-content">
       <p class="pub-title">M<sup>3</sup>P-R1: Reinforcement Learning for Large Language Model Guided Multi-Modal Motion Planning via MIP Code Generation</p>
       <p class="pub-authors"><strong>Xingpeng Sun</strong>, Zherong Pan, Kai Cheng, Xindi Tang, Syed Talha Bukhari, Aniket Bera</p>
-      <p class="pub-venue"><em>Conference on Robot Learning (CoRL)</em>, 2026</p>
+      <p class="pub-venue"><em>10th Conference on Robot Learning (CoRL)</em>, 2026</p>
     </div>
   </li>
 

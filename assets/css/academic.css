@@ -236,7 +236,7 @@
   width: 140px;
   height: 72px;
   object-fit: contain;
-  object-position: left center;
+  object-position: center;
   margin-top: 0.1rem;
 }
 
