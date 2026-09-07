@@ -134,23 +134,11 @@
   background: #f8fafc;
 }
 
-/* Clip the PDF's blank bottom margin without adding letterboxing. */
-.pub-thumb--teaser {
+/* Match these thumbnail boxes to the supplied images without cropping or padding. */
+.pub-thumb.pub-thumb--natural {
   display: block;
-  position: relative;
   height: auto;
-  min-height: 0;
-  aspect-ratio: 720 / 328;
-  overflow: hidden;
-}
-
-.pub-thumb--teaser img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  display: block;
-  width: 100%;
-  height: auto;
+  max-height: none;
 }
 
 .pub-content {

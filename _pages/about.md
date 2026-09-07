@@ -30,7 +30,7 @@ My research sits at the intersection of **foundation models**, **robotics**, and
 <ul class="pub-list">
 
   <li class="pub-item">
-    <span class="pub-thumb pub-thumb--teaser"><img src="images/m3p-r1.png" alt="M³P-R1 multi-modal motion planning teaser"></span>
+    <img class="pub-thumb pub-thumb--natural" src="images/m3p-r1.png" width="2380" height="1072" alt="M³P-R1 multi-modal motion planning teaser">
     <div class="pub-content">
       <p class="pub-title">M<sup>3</sup>P-R1: Reinforcement Learning for Large Language Model Guided Multi-Modal Motion Planning via MIP Code Generation</p>
       <p class="pub-authors"><strong>Xingpeng Sun</strong>, Zherong Pan, Kai Cheng, Xindi Tang, Syed Talha Bukhari, Aniket Bera</p>
@@ -51,7 +51,7 @@ My research sits at the intersection of **foundation models**, **robotics**, and
   </li>
 
   <li class="pub-item">
-    <img class="pub-thumb" src="images/inspection_planning.png" alt="Language-Guided Inspection Planning">
+    <img class="pub-thumb pub-thumb--natural" width="382" height="222" src="images/inspection_planning.png" alt="Language-Guided Inspection Planning">
     <div class="pub-content">
       <p class="pub-title"><a href="https://arxiv.org/abs/2506.02917">Language-Guided Generation for Personalized Inspection Planning</a></p>
       <p class="pub-authors"><strong>Xingpeng Sun</strong>, Zherong Pan, Xifeng Gao, Kui Wu, Aniket Bera</p>
