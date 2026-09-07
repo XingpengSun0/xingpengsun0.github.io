@@ -106,7 +106,7 @@ My research sits at the intersection of **foundation models**, **robotics**, and
 <ul class="internship-list">
 
   <li class="internship-entry">
-    <div class="internship-logo-column"><span class="internship-logo internship-logo--bosch"><img src="images/internships/bosch.png" alt="Bosch"></span></div>
+    <img class="internship-logo" src="images/internships/bosch.png" alt="Bosch">
     <div class="internship-details">
       <p class="internship-header"><strong>Bosch Research</strong>, Sunnyvale, CA</p>
       <ul class="internship-bullets">
@@ -117,7 +117,7 @@ My research sits at the intersection of **foundation models**, **robotics**, and
   </li>
 
   <li class="internship-entry">
-    <div class="internship-logo-column"><span class="internship-logo internship-logo--adobe"><img src="images/internships/adobe.png" alt="Adobe Research"></span></div>
+    <img class="internship-logo" src="images/internships/adobe.png" alt="Adobe Research">
     <div class="internship-details">
       <p class="internship-header"><strong>Adobe Research</strong>, San Jose, CA</p>
       <ul class="internship-bullets">
@@ -128,7 +128,7 @@ My research sits at the intersection of **foundation models**, **robotics**, and
   </li>
 
   <li class="internship-entry">
-    <div class="internship-logo-column"><span class="internship-logo internship-logo--lightspeed"><img src="images/internships/lightspeed.png" alt="Lightspeed Studios"></span></div>
+    <img class="internship-logo" src="images/internships/lightspeed.png" alt="Lightspeed Studios">
     <div class="internship-details">
       <p class="internship-header"><strong>Lightspeed Studios</strong>, Bellevue, WA</p>
       <ul class="internship-bullets">

@@ -125,20 +125,29 @@
 
 .pub-thumb {
   flex-shrink: 0;
-  width: 240px;
-  height: auto;
-  display: block;
+  width: 200px;
+  height: 130px;
+  object-fit: cover;
   border-radius: 6px;
   border: 1px solid #e5e7eb;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  background: #f8fafc;
 }
 
+/* Clip the PDF's blank bottom margin without adding letterboxing. */
 .pub-thumb--teaser {
+  display: block;
+  position: relative;
+  height: auto;
+  min-height: 0;
   aspect-ratio: 720 / 328;
   overflow: hidden;
 }
 
 .pub-thumb--teaser img {
+  position: absolute;
+  top: 0;
+  left: 0;
   display: block;
   width: 100%;
   height: auto;
@@ -236,58 +245,13 @@
   border-bottom: none;
 }
 
-/* Keep logo artwork centered in a shared column; clip source-image margins. */
-.internship-logo-column {
-  flex: 0 0 140px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 80px;
-}
-
 .internship-logo {
-  position: relative;
-  display: block;
-  overflow: hidden;
-}
-
-.internship-logo img {
-  position: absolute;
-  height: auto;
-  max-width: none;
-}
-
-.internship-logo--bosch {
-  width: 76px;
-  aspect-ratio: 970 / 961;
-}
-
-.internship-logo--bosch img {
-  width: 105.567%;
-  left: -2.887%;
-  top: -2.081%;
-}
-
-.internship-logo--adobe {
+  flex-shrink: 0;
   width: 140px;
-  aspect-ratio: 444 / 119;
-}
-
-.internship-logo--adobe img {
-  width: 149.099%;
-  left: -24.775%;
-  top: -136.134%;
-}
-
-.internship-logo--lightspeed {
-  width: 76px;
-  aspect-ratio: 523 / 586;
-}
-
-.internship-logo--lightspeed img {
-  width: 195.793%;
-  left: -47.610%;
-  top: -15.700%;
+  height: 72px;
+  object-fit: contain;
+  object-position: center;
+  margin-top: 0.1rem;
 }
 
 .internship-details {
@@ -347,7 +311,7 @@
   .pub-thumb {
     width: 100%;
     height: auto;
-    max-width: 420px;
+    max-height: 180px;
   }
 
   .internship-entry {
@@ -355,8 +319,8 @@
     gap: 0.75rem;
   }
 
-  .internship-logo-column {
-    flex-basis: auto;
-    width: 140px;
+  .internship-logo {
+    width: 120px;
+    height: 60px;
   }
 }
