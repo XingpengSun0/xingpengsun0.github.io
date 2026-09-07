@@ -134,6 +134,11 @@
   background: #f8fafc;
 }
 
+.pub-thumb--contain {
+  object-fit: contain;
+  background: #fff;
+}
+
 .pub-content {
   flex: 1;
   min-width: 0;

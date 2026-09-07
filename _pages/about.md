@@ -17,6 +17,7 @@ My research sits at the intersection of **foundation models**, **robotics**, and
 ## News
 
 <ul class="news-list">
+  <li><span class="news-date">2026</span> <span class="news-badge">CoRL</span> <strong>M<sup>3</sup>P-R1</strong> accepted to CoRL 2026!</li>
   <li><span class="news-date">2026</span> <span class="news-badge">TVCG</span> <strong>Handle-based Mesh Deformation Guided By Vision Language Model</strong> accepted to IEEE TVCG!</li>
   <li><span class="news-date">2026</span> <span class="news-badge">IROS</span> <strong>Language-Guided Generation for Personalized Inspection Planning</strong> accepted to IROS 2026!</li>
   <li><span class="news-date">2025</span> <span class="news-badge">IROS</span> <strong>EfficientEQA</strong> accepted to IROS 2025!</li>
@@ -27,6 +28,15 @@ My research sits at the intersection of **foundation models**, **robotics**, and
 ## Publications
 
 <ul class="pub-list">
+
+  <li class="pub-item">
+    <img class="pub-thumb pub-thumb--contain" src="images/m3p-r1.png" alt="M³P-R1 multi-modal motion planning teaser">
+    <div class="pub-content">
+      <p class="pub-title">M<sup>3</sup>P-R1: Reinforcement Learning for Large Language Model Guided Multi-Modal Motion Planning via MIP Code Generation</p>
+      <p class="pub-authors"><strong>Xingpeng Sun</strong>, Zherong Pan, Kai Cheng, Xindi Tang, Syed Talha Bukhari, Aniket Bera</p>
+      <p class="pub-venue"><em>Conference on Robot Learning (CoRL)</em>, 2026</p>
+    </div>
+  </li>
 
   <li class="pub-item">
     <img class="pub-thumb" src="images/vlm_mesh_deform.png" alt="Handle-based Mesh Deformation">
